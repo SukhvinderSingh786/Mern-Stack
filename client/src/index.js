@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-const host = "https://sukhwinder.netlify.app/"
-const uploadURL = `${host}api/files`;
+// const host = "sukhwinder.netlify.app"
+//const uploadURL = `${host}api/files`;
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
