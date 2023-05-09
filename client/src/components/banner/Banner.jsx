@@ -24,7 +24,7 @@ const Banner=()=>{
     return(
     <Image>
        <Heading>Blog</Heading>
-       <SubHeading>code for interview</SubHeading>
+       <SubHeading>Write, Rewrite, Read.Then Repeat.</SubHeading>
     </Image>
     )
 }
