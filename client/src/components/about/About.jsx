@@ -31,18 +31,18 @@ const About = () => {
                     I like to built websites, desktop applications and corporate software.<br />
                     If you are interested, you can contact me anytime.
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://github.com/SukhvinderSingh786" color="inherit" target="_blank"><GitHub /></Link>
+                        <Link href="https://github.com" color="inherit" target="_blank"><GitHub /></Link>
                     </Box>
                 </Text>
                 <Text variant="h5">
                     Need something built or simply want to have chat? Reach out to me on
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://www.instagram.com/sukhe1270/" color="inherit" target="_blank">
+                        <Link href="https://www.instagram.com/" color="inherit" target="_blank">
                             <Instagram />
                         </Link>
                     </Box>  
                         or send me an Email 
-                        <Link href="mailto:sahilsaini900p@gmail.com?Subject=This is a subject" target="_blank" color="inherit">
+                        <Link href="https://mail.google.com/mail?hl=en" target="_blank" color="inherit">
                             <Email />
                         </Link>.
                 </Text>
