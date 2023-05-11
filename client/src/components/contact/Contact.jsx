@@ -33,7 +33,7 @@ const Contact = () => {
                         <Instagram/>
                     </Link>
                     or send me an Email 
-                    <Link href="https://mail.google.com/mail?hl=en" target="_blank" color="inherit">
+                    <Link href="https://mail.google.com/" target="_blank" color="inherit">
                         <Email />
                     </Link>.
                 </Text>
