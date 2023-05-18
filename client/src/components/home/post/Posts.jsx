@@ -24,7 +24,7 @@ const Posts=()=>{
     return (
         <>
         {
-            posts && posts.length > 0 ? posts.map(post =>(
+            posts?.length ? posts.map(post =>(
                 <Grid item lg={3} sm={4} xs={12}>
                        <Link to={`details/${post._id}`} style={{textDecoration:'none',color:'inherit'}} >
                         
